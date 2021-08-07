@@ -1,0 +1,1 @@
+this is a project to identify possible cognate object constructions in the BHSA data. For purposes of this study, cognate object is any object/adjunct phrase with any word that is derived from same root as the main verb. I am not including cognate infinitive absolutes in this search, nor have I included participles at this time
